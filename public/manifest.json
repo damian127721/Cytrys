@@ -1,0 +1,20 @@
+{
+  "short_name": "Cytrys",
+  "name": "The storage of your stuff",
+  "icons": [
+    {
+      "src": "github.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "linkedin.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

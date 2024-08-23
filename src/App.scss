@@ -1,0 +1,33 @@
+/* || ELEMENTS */
+hr {
+  border: 0;
+  margin: 0;
+  border-top: 1px solid #e0e0e0;
+}
+
+img {
+  max-height: 100%;
+}
+
+/* || CLASSES AND IDS */
+#contacts {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 0;
+  padding-right: 32px;
+  padding-block: 24px;
+  column-gap: 24px;
+  list-style-type: none;
+}
+
+#hero {
+  height: 440px;
+  display: flex;
+  gap: 160px;
+  justify-content: center;
+}
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+}
